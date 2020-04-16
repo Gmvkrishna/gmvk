@@ -23,12 +23,33 @@ ul{
     padding-right: 20px;
 
 }
-button{
+button.1{
     background-color: transparent;
     border-color: transparent;
     width: 140px;
     height: 50px;
-    border-radius: 10px;  
+    border-radius: 10px; 
+    position: fixed; 
+    
+}
+
+button.2{
+    background-color: transparent;
+    border-color: transparent;
+    width: 140px;
+    height: 50px;
+    border-radius: 10px; 
+    position: fixed; 
+    
+}
+
+button.3{
+    background-color: transparent;
+    border-color: transparent;
+    width: 140px;
+    height: 50px;
+    border-radius: 10px; 
+    position: fixed; 
     
 }
 
